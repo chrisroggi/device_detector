@@ -419,6 +419,10 @@
   version: '$1'
   
   
+- regex: 'Roku[ ]?(\d+[\.\d]+)'
+  name: 'Roku'
+  version: '$1'
+  
   
 ##########
 # Unix

@@ -9,6 +9,7 @@ class DeviceDetector
 
     def filenames
       [
+        'client/boxxspring.yml',
         'client/feed_readers.yml',
         'client/mobile_apps.yml',
         'client/mediaplayers.yml',
